@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariel Prado</h1>
 
-I am a Jr Full Stack Developer chasing opportunities to implement my knowledge and skills in creating and improving technological solutions for the world. I have a greater focus on the Front End development and I already dominate the stacks React.JS, Javascript, Typescript, HTML, CSS, Context API and API Restful. For Back End development my stacks are MySQL, Python, Java and Springboot.
+I am a Full Stack Developer chasing opportunities to implement my knowledge and skills in creating and improving technological solutions for the world. I have a greater focus on the Front End development and I already dominate the stacks React.JS, Javascript, Typescript, HTML, CSS, Context API and API Restful. For Back End development my stacks are MySQL, Python, Java and Springboot.
 
 - 🌱 I’m currently learning **React, Typescript**
 
